@@ -1,5 +1,6 @@
 # Fitness-Tracker
 ![HotGirl Tracker APP](https://github.com/user-attachments/assets/deaa49bf-3c17-40d6-a5b2-6ac22f987713)
+
 Hot Girl Tracker – Fitness App Design
 
 For this assignment, I designed a fitness app called Hot Girl Tracker, aimed at helping users get ready for summer. Using Figma, I focused on creating a female-friendly interface by incorporating pink icons and implementing a dark mode for a sleek, modern aesthetic.
